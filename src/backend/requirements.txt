@@ -1,0 +1,39 @@
+# === Core Backend ===
+fastapi==0.115.6
+uvicorn==0.32.1
+python-dotenv==1.0.1
+
+# === Database & ORM ===
+sqlalchemy==2.0.36
+sqlite-utils==3.36
+pydantic==2.9.2
+
+# === AI, NLP, and Sentiment Analysis ===
+# Install PyTorch and its libraries from official CPU wheel index
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.6.0+cpu
+torchvision==0.21.0+cpu
+torchaudio==2.6.0+cpu
+
+# Rest are from default PyPI
+transformers==4.45.2
+sentence-transformers==3.2.1
+scikit-learn==1.5.2
+nltk==3.9.1
+textblob==0.18.0
+
+# === Data Handling ===
+numpy==2.3.4
+pandas==2.2.3
+
+# === Task Scheduling & Alerts ===
+apscheduler==3.10.4
+requests==2.32.3
+
+# === Visualization (optional) ===
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# === Logging & Testing ===
+loguru==0.7.2
+pytest==8.3.3
