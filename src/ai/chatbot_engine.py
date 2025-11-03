@@ -1,0 +1,1 @@
+# Conversational journaling bot (LangChain/OpenAI)
