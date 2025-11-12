@@ -1,0 +1,22 @@
+[
+  {
+    "type": "journal",
+    "text": "I felt anxious today but writing helps a bit.",
+    "sentiment": {
+      "label": "POSITIVE",
+      "score": 0.99
+    },
+    "risk": 0,
+    "timestamp": "2025-11-12T11:22:52.855916"
+  },
+  {
+    "type": "journal",
+    "text": "I'm working on a few new things, but not sure how useful it is going to be.",
+    "sentiment": {
+      "label": "NEGATIVE",
+      "score": 1.0
+    },
+    "risk": 100,
+    "timestamp": "2025-11-12T11:28:12.812690"
+  }
+]
