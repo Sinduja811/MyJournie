@@ -124,9 +124,7 @@ npx expo start
 ## Author
 
 **Developed by:** Sinduja S  
-**Organization:** Oracle, Bangalore  
-**Focus Areas:** AI for Psychology, NLP Applications, Mental Health Technology  
-**Status:** Prototype under development for patent filing  
+**Focus Areas:** AI for Psychology, NLP Applications, Mental Health Technology   
 
 ---
 
