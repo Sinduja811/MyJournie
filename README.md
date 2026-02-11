@@ -10,7 +10,7 @@ It combines journaling, emotional signal detection, memory, and agentic reasonin
 
 ## Key Features
 
-### Gemini‑Powered Therapeutic Agent
+### AI‑Powered Therapeutic Agent
 The main agent uses the Gemini ADK to:
 - Understand emotional tone
 - Maintain context across sessions
